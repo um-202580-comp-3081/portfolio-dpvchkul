@@ -18,7 +18,7 @@ envVars:
     property: connectionString
   - key: RAILS_ENV
     value: production
-  - key: RAILS_MASTER_KEY
+  - key: 1941f82f181262883b28345c4cbaf48d
     sync: false
   - key: WEB_CONCURRENCY
     value: 2
